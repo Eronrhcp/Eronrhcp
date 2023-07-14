@@ -31,7 +31,7 @@
   <img align="center" alt="Eron-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <h3 align="left">Support:</h3>
-<p><a href="https://bmc.link/erondev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
+<p><a href="https://bmc.link/erondev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eronrhcp&show_icons=true&locale=en&layout=compact" alt="Eronrhcp" /></p>
 
